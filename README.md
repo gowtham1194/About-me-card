@@ -1,3 +1,3 @@
 # About-me-card
-day 2 
+day 3
  about me card with css
